@@ -1,0 +1,86 @@
+.body_div {	
+		width: 1000px;
+		height: 800px;
+		background: #CCCCCC;
+		margin: 50px auto;
+}
+.title_div {
+		position: absolute;
+		width: 300px;
+		height: 80px;
+		background: #66FF66;
+		margin: auto;
+		left: 0;
+		right: 0;
+		top: 100px;
+		text-align: center;
+}
+.form_div {
+		position: absolute;
+		width: 500px;
+		height: 400px;
+		background: ;
+		margin: auto;
+		left: 0;
+		right: 0;
+		top: 400px;
+		
+}
+.user_div {
+		
+		width: 320px;
+		height: 50px;
+		line-height: 50px;
+		background: white;
+		margin: 150px auto;
+		left: 0;
+		right: 0;
+		font-size: 25px;
+}
+.pass_div {
+		width: 320px;
+		height: 50px;
+		line-height: 50px;
+		background: white;
+		margin: -140px auto;
+		left: 0;
+		right: 0;
+		font-size: 25px;
+}
+
+.test {
+		width: 160px;
+		height: 25px;
+		float: right;
+		margin-right: 20px;
+		margin-top: 10px;
+}
+
+.button_div {
+		width: 320px;
+		height: 50px;
+		line-height: 50px;
+		background: ;
+		margin: 170px auto;
+		left: 0;
+		right: 0;
+		font-size: 25px;		
+}
+
+.button_div input {
+		width: 80px;
+		height: 40px;
+		font-size: 25px;
+}
+
+.div1 {
+		margin-top: 5px;
+		margin-left: 40px;
+		float: left;
+}
+
+.div2 {
+		float: right;
+		margin-top: 5px;
+		margin-right: 40px;
+}
